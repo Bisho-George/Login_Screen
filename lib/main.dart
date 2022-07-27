@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:petology/AboutUs.dart';
+import 'package:petology/Login.dart';
 
 void main() {
   runApp(const MyApp());
